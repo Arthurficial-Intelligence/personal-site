@@ -17,12 +17,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        flex-grow: 8;
     }
-    img {
-        border-radius: 150px;
-        margin-right: 10px;
-    }
-
     .opener {
         padding-top: 10px;
         font-size: 32px;

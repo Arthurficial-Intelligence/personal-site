@@ -11,5 +11,6 @@
     div {
         display: flex;
         justify-content: flex-start;
+        width: 100%;
     }
 </style>
